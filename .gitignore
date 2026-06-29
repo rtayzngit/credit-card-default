@@ -3,3 +3,5 @@
 __pycache__/
 .env
 venv/
+learning_notes.md
+csv_cleaning_notes.md
